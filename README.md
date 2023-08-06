@@ -1,2 +1,2 @@
 # Data-Engineering-Bootcamp-Google-Cloud-Wizeline-Academy
-Code Challenge Answers of the Data Engineering Bootcamp provided by Google Cloud &amp; Wizeline Academy
+In this challenge, I've calculated various KPIs using a car-based dataset.
